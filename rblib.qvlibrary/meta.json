@@ -2,6 +2,9 @@
   "children" : [
     {
       "uuid" : "DD831346-C211-40F0-A4B9-18BA746EBDBF"
+    },
+    {
+      "uuid" : "F6785875-AD88-49AE-A8E9-A25FC2F2DA24"
     }
   ],
   "uuid" : "Notebooks"

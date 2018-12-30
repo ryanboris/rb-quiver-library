@@ -1,0 +1,10 @@
+{
+  "title": "docker list all containers",
+  "cells": [
+    {
+      "type": "code",
+      "language": "sh",
+      "data": "docker ps --all"
+    }
+  ]
+}

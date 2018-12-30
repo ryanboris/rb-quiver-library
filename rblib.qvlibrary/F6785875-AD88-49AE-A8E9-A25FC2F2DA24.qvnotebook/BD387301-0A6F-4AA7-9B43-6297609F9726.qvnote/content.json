@@ -1,0 +1,10 @@
+{
+  "title": "docker prune",
+  "cells": [
+    {
+      "type": "code",
+      "language": "sh",
+      "data": "$ docker system prune"
+    }
+  ]
+}
