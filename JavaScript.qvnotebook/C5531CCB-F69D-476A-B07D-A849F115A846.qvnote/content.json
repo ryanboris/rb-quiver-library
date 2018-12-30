@@ -1,0 +1,10 @@
+{
+  "title": "JS",
+  "cells": [
+    {
+      "type": "code",
+      "language": "javascript",
+      "data": "const x = 3"
+    }
+  ]
+}
