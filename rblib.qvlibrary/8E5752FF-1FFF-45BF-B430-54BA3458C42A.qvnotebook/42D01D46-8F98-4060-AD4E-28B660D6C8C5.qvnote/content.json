@@ -1,0 +1,10 @@
+{
+  "title": "tests",
+  "cells": [
+    {
+      "type": "code",
+      "language": "javascript",
+      "data": "// ---------------\n// User\n// ---------------\n\n// Should not signup a user with email that is already in use\n\n// Should login and provide authentication token\n\n// Should reject me query without authentication\n\n// Should hide emails when fetching list of users\n\n// ---------------\n// Post\n// ---------------\n\n// Should not be able to update another users post\n\n// Should not be able to delete another users post\n\n// Should require authentication to create a post (could add for update and delete too)\n\n// Should fetch published post by id \n\n// Should fetch own post by id\n\n// Should not fetch draft post from other user\n\n// ---------------\n// Comment\n// ---------------\n\n// Should fetch post comments\n\n// Should create a new comment\n\n// Should not create comment on draft post\n\n// Should update comment\n\n// Should not update another users comment\n\n// Should not delete another users comment\n\n// Should require authentication to create a comment (could add for update and delete too)"
+    }
+  ]
+}
